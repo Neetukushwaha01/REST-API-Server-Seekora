@@ -151,12 +151,5 @@ Resource not found: 404 Not Found
 
 Server error: 500 Internal Server Error
 
-Additional Notes
-The project uses TF-IDF for vectorization and PCA for dimensionality reduction.
 
-You can modify the number of PCA components in views.py.
-
-To deploy, use gunicorn with Docker or AWS/GCP for production setup.
-
-For further assistance, feel free to contact the developer. 🚀
 
